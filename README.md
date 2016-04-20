@@ -9,9 +9,11 @@ Explanation of Files:
 
 Makefile - Instructions used to assemble raw fasta file
 
+AXIOMEcommands.docx - Commands used in terminal to invoke AXIOME and create the makefile
+
 Mammal_Metadata_Ashley.tsv - Metadata information used in the assembly. Information is also found in Supplementary Table 1 of the report.
 
-Mammal_sample_mapping.tsv - Mapping instructions used assemble sequence data.
+Mammal_sample_mapping.tsv - Mapping instructions used to assemble sequence data.
 
 Mammals_ultraclean_no_chimeras_17504.fasta - Raw reads obtained from the Ley et al. 2008 paper
 
