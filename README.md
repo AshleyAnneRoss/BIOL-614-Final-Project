@@ -17,4 +17,8 @@ Mammals_ultraclean_no_chimeras_17504.fasta - Raw reads obtained from the Ley et 
 
 Apr.15.Mammal.Heatmap.R - R script for creating a heatmap from the assembled data
 
+Apr.14.OTU.Table - OTU table used to create heatmap
+
+Feb18_Newick_Tree_Complete.tre - Phylogenetic tree in Newick format used to create heatmap
+
 For clarification please email aaross@uwaterloo.ca
