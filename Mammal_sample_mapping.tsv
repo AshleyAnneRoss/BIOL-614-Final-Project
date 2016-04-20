@@ -1,0 +1,53 @@
+#FilemappingtemplategeneratedbyAXIOME2										
+#Instructions:										
+#-sample_aliascolumncontainsUNIQUEsamplenamesandmustmatchsamplemetadatasheet										
+#-axiome_modulecolumncontainsthenameoftheAXIOMEmodulethatwillprocesstheinputfile										
+#-allothercolumnsarevariablesrequestedbyAXIOMEsourcemodules,andonlythosecolumnsrequiredbythechosenmoduleneedtobefilledout										
+#Sourcemodule(modulethatrequiresthisvariable)		fasta	fasta							
+#Descriptionofvariable		fasta:File	fasta:Regex(MatchingPattern)							
+#Required?		fasta:True	fasta:True							
+sample_alias	axiome_submodule	seq_file	regex							
+SBSD	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	SBSD							
+AS2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	AS2							
+AS3	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	AS3							
+BH2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	BH2							
+BARB	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	BARB							
+RRH	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RRH							
+HY1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	HY1							
+LI1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	LI1							
+LI2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	LI2							
+LI3	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	LI3							
+GP	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	GP							
+RP	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RP							
+RPSD	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RPSD							
+SB	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	SB							
+BB1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	BB1							
+BB2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	BB2							
+PB1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	PB1							
+PB2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	PB2							
+bat	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	bat							
+FF	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	FF							
+RHSD	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RHSD							
+HH	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	HH							
+RH	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RH							
+SPIM	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	SPIM							
+MAR	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	MAR							
+EAC	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	EAC							
+BAZ	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	BAZ							
+FL	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	FL							
+GOR	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	GOR							
+GORSD	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	GORSD							
+CHIMP1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	CHIMP1							
+CHIMP12	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	CHIMP12							
+orang1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	orang1							
+orang2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	orang2							
+ML	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	ML							
+RT	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	RT							
+Saki	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	Saki							
+AFEL	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	AFEL							M
+AFEL2	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	AFEL2							
+AFEL3	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	AFEL3							
+SQ	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	SQ							
+arma	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	arma							
+KO1	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	KO1							
+ECH	fasta	/Winnebago/aaross/Feb26_Ashley_Mammals_SamplesRemoved/Mammals_ultraclean_no_chimeras_17504.fasta	ECH							
