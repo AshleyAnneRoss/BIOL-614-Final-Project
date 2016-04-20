@@ -7,20 +7,20 @@ Apr. 25, 2016
 
 Explanation of Files:
 
-Makefile - Instructions used to assemble raw fasta file
+Apr.14.OTU.Table - OTU table used to create heatmap
+
+Apr.15.Mammal.Heatmap.R - R script for creating a heatmap from the assembled data
 
 AXIOMEcommands.docx - Commands used in terminal to invoke AXIOME and create the makefile
+
+Feb18_Newick_Tree_Complete.tre - Phylogenetic tree in Newick format used to create heatmap
+
+Makefile - Instructions used to assemble raw fasta file
 
 Mammal_Metadata_Ashley.tsv - Metadata information used in the assembly. Information is also found in Supplementary Table 1 of the report.
 
 Mammal_sample_mapping.tsv - Mapping instructions used to assemble sequence data.
 
 Mammals_ultraclean_no_chimeras_17504.fasta - Raw reads obtained from the Ley et al. 2008 paper
-
-Apr.15.Mammal.Heatmap.R - R script for creating a heatmap from the assembled data
-
-Apr.14.OTU.Table - OTU table used to create heatmap
-
-Feb18_Newick_Tree_Complete.tre - Phylogenetic tree in Newick format used to create heatmap
 
 For clarification please email aaross@uwaterloo.ca
